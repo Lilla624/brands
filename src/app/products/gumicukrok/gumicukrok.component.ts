@@ -15,35 +15,7 @@ interface Gumicukor {
 export class GumicukrokComponent {
   gumicukrok: Gumicukor[] = [
     {
-<<<<<<< HEAD
-      nev: 'Medvecukor',
-      image: './assets/cukorImg/pop.jpg',
-      ar: 500,
-      darab: 1
-    },
-    {
-      nev: 'Cseresznyés gumicukor',
-      image: './assets/gumicukorImg/cseresznyes.jpg',
-      ar: 550,
-      darab: 1
-    },
-    {
-      nev: 'Kólás gumicukor',
-      image: './assets/gumicukorImg/kolas.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Színes gyümölcsös',
-      image: './assets/gumicukorImg/szines.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Savanyú cukor',
-      image: './assets/gumicukorImg/savanyu.jpg',
-      ar: 600,
-=======
+
       nev: 'Sour Patch Kids Strawberry 102g',
       image: './assets/cukorImg/Sour Patch Kids Strawberry 102g.jpg',
       ar: 1290,
@@ -527,7 +499,6 @@ export class GumicukrokComponent {
       nev: 'Toxic Waste Blue Raspberry Flavored Chewy Candy 20g',
       image: './assets/gumicukorImg/Toxic Waste Blue Raspberry Flavored Chewy Candy 20g.jpg',
       ar: 199,
->>>>>>> 9c4e142 (products (chipsek, gumicukrok, uditok) módosítva)
       darab: 1
     }
   ];

@@ -15,35 +15,6 @@ interface Uditok {
 export class UditokComponent {
   gumicukrok: Uditok[] = [
     {
-<<<<<<< HEAD
-      nev: 'Medvecukor',
-      image: './assets/cukorImg/pop.jpg',
-      ar: 500,
-      darab: 1
-    },
-    {
-      nev: 'Cseresznyés gumicukor',
-      image: './assets/gumicukorImg/cseresznyes.jpg',
-      ar: 550,
-      darab: 1
-    },
-    {
-      nev: 'Kólás gumicukor',
-      image: './assets/gumicukorImg/kolas.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Színes gyümölcsös',
-      image: './assets/gumicukorImg/szines.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Savanyú cukor',
-      image: './assets/gumicukorImg/savanyu.jpg',
-      ar: 600,
-=======
       nev: 'Prime Hydration Drink Glowberry 500ml',
       image: './assets/uditokImg/Prime Hydration Drink Glowberry 500ml.jpg',
       ar: 3990,
@@ -377,7 +348,6 @@ export class UditokComponent {
       nev: 'Ghost Energy Drink, Warheads Sour Watermelon 500ml',
       image: './assets/uditokImg/Ghost Energy Drink, Warheads Sour Watermelon 500ml.jpg',
       ar: 7411,
->>>>>>> 9c4e142 (products (chipsek, gumicukrok, uditok) módosítva)
       darab: 1
     }
   ];
